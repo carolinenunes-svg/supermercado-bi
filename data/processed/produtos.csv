@@ -1,0 +1,41 @@
+product_id,barcode,product_name,category,subcategory,unit_of_measure,min_stock,ideal_stock,sale_price,active_flag
+8,7891000000008,Arroz 5 kg,Mercearia Seca,Grãos,UN,40.0,120.0,26.9,S
+9,7891000000009,Café 500 g,Mercearia Seca,Matinais,UN,25.0,80.0,18.9,S
+10,7891000000010,Óleo de soja 900 ml,Mercearia Seca,Óleos e Azeites,UN,50.0,150.0,6.99,S
+11,7891000000011,Feijão Preto 1 kg,Mercearia Seca,Grãos,UN,35.0,100.0,7.99,S
+12,7891000000012,Açúcar Refinado 1 kg,Mercearia Seca,Matinais,UN,40.0,110.0,4.49,S
+13,7891000000013,Macarrão Espaguete 500 g,Mercearia Seca,Massas,UN,30.0,90.0,3.99,S
+14,7891000000014,Farinha de Trigo 1 kg,Mercearia Seca,Farinhas,UN,25.0,75.0,4.89,S
+15,7891000000015,Sal Refinado 1 kg,Mercearia Seca,Condimentos,UN,20.0,60.0,2.29,S
+1,7891000000001,Leite integral 1 L,Laticínios e Frios,Leites,UN,60.0,180.0,5.49,S
+2,7891000000002,Iogurte natural 170 g,Laticínios e Frios,Iogurtes,UN,20.0,60.0,3.89,S
+3,7891000000003,Queijo Mussarela Fatiado 200 g,Laticínios e Frios,Queijos,UN,25.0,70.0,9.9,S
+4,7891000000004,Requeijão Cremoso 200 g,Laticínios e Frios,Derivados,UN,15.0,45.0,7.5,S
+5,7891000000005,Manteiga com Sal 200 g,Laticínios e Frios,Derivados,UN,15.0,40.0,10.9,S
+6,7891000000006,Presunto Cozido Fatiado 200 g,Laticínios e Frios,Embutidos,UN,20.0,50.0,6.8,S
+7,7891000000007,Creme de Leite 200 g,Laticínios e Frios,Derivados,UN,30.0,90.0,3.49,S
+16,7891000000016,Banana Prata,Hortifrúti,Frutas,KG,30.0,90.0,5.99,S
+17,7891000000017,Maçã Nacional,Hortifrúti,Frutas,KG,20.0,60.0,8.99,S
+18,7891000000018,Tomate Longa Vida,Hortifrúti,Legumes,KG,25.0,70.0,7.49,S
+19,7891000000019,Batata Inglesa,Hortifrúti,Legumes,KG,40.0,120.0,5.49,S
+20,7891000000020,Cebola Nacional,Hortifrúti,Legumes,KG,25.0,75.0,4.99,S
+21,7891000000021,Alface Crespa,Hortifrúti,Verduras,UN,15.0,40.0,3.29,S
+22,7891000000022,Coxão Mole Bovino,Açougue e Carnes,Bovinos,KG,20.0,60.0,38.9,S
+23,7891000000023,Carne Moída Bovina (Acém),Açougue e Carnes,Bovinos,KG,25.0,75.0,28.9,S
+24,7891000000024,Peito de Frango Resfriado,Açougue e Carnes,Aves,KG,30.0,90.0,18.9,S
+25,7891000000025,Coxa e Sobrecoxa de Frango,Açougue e Carnes,Aves,KG,30.0,85.0,12.9,S
+26,7891000000026,Bisteca Suína,Açougue e Carnes,Suínos,KG,20.0,50.0,19.9,S
+27,7891000000027,Linguiça Toscana,Açougue e Carnes,Embutidos Frescos,KG,25.0,70.0,21.9,S
+28,7891000000028,Refrigerante Cola 2 L,Bebidas,Refrigerantes,UN,40.0,120.0,9.49,S
+29,7891000000029,Refrigerante Guaraná 2 L,Bebidas,Refrigerantes,UN,35.0,100.0,7.99,S
+30,7891000000030,Suco de Uva Integral 1 L,Bebidas,Sucos,UN,15.0,45.0,12.9,S
+31,7891000000031,Suco de Laranja 1 L,Bebidas,Sucos,UN,15.0,45.0,8.9,S
+32,7891000000032,Água Mineral sem Gás 500 ml,Bebidas,Águas,UN,50.0,150.0,2.0,S
+33,7891000000033,Cerveja Pilsen Lata 350 ml,Bebidas,Alcoólicos,UN,80.0,240.0,3.69,S
+34,7891000000034,Cerveja Puro Malte Lata 350 ml,Bebidas,Alcoólicos,UN,60.0,180.0,4.49,S
+35,7891000000035,Detergente Líquido 500 ml,Higiene e Limpeza,Limpeza de Louça,UN,40.0,120.0,2.49,S
+36,7891000000036,Sabão em Pó 1 kg,Higiene e Limpeza,Lavanderia,UN,30.0,90.0,12.9,S
+37,7891000000037,Amaciante de Roupas 2 L,Higiene e Limpeza,Lavanderia,UN,20.0,60.0,11.5,S
+38,7891000000038,Desinfetante Pinho 1 L,Higiene e Limpeza,Limpeza Geral,UN,25.0,75.0,6.9,S
+39,7891000000039,Sabonete em Barra 90 g,Higiene e Limpeza,Higiene Pessoal,UN,40.0,120.0,2.79,S
+40,7891000000040,Papel Higiênico Folha Dupla 4 un,Higiene e Limpeza,Higiene Pessoal,UN,30.0,90.0,6.49,S

@@ -1,0 +1,9 @@
+tabela,tipo_problema,detalhe,registros_afetados,acao
+produtos,Espaços extras (TRIM),Removidos espaços no início e fim do nome do produto 7 ('Creme de Leite 200 g'),1,Corrigido / Padronizado
+fornecedores,Campo opcional nulo,Substituído WhatsApp vazio por 'Não informado' no fornecedor FOR-006 (Distribuidora LimpaLar),0,Tratado / Valor padrão
+compras,Registro duplicado,Linha duplicada da nota de compra eliminada (purchase_id=511),1,Descartado / Deduplicado
+vendas,Registros duplicados,"Cupons de venda idênticos eliminados por chave (sale_id, product_id)",2,Descartado / Deduplicado
+vendas,Chave órfã (FK inexistente),Transação com product_id=999 isolada em quarentena para auditoria cadastral,1,Isolado em quarentena
+estoque,Inconsistência física (Saldo negativo),Registro com saldo -2.000 no Depósito para Alface Crespa (ID 21) isolado em quarentena de inventário,1,Isolado em quarentena
+validade,Padrão de data não-ISO (DD/MM/YYYY),Data do lote LOT-MAN-20260608 ('15/08/2026') convertida para padrão ISO '2026-08-15',1,Corrigido / Padronizado
+perdas,Inconsistência de caixa (maiúscula/minúscula),Motivo 'avaria' normalizado para 'Avaria' (Title Case),1,Corrigido / Padronizado

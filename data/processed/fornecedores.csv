@@ -1,0 +1,9 @@
+supplier_id,company_name,trade_name,cnpj,contact_name,contact_whatsapp,lead_time_days,city_state
+FOR-001,Distribuidora Sul Brasil de Alimentos Ltda.,Distribuidora Sul Brasil,00.111.222/0001-33,Marcos Oliveira,(51) 98111-0101,3,Porto Alegre / RS
+FOR-002,Cooperativa Lácteos Vale Sul Ltda.,Lácteos Vale Sul,00.222.333/0001-44,Juliana Becker,(51) 98222-0202,2,Lajeado / RS
+FOR-003,Central de Abastecimento Hortifruti Ltda.,Hortifruti Central,00.333.444/0001-55,Roberto Souza,(51) 98333-0303,1,Porto Alegre / RS
+FOR-004,Frigorífico e Charqueada Pampa S.A.,Frigorífico Pampa,00.444.555/0001-66,André Fagundes,(55) 98444-0404,2,Santa Maria / RS
+FOR-005,Indústria de Bebidas Serra Gaúcha Ltda.,Bebidas Serra Gaúcha,00.555.666/0001-77,Fernanda Rossi,(54) 98555-0505,3,Caxias do Sul / RS
+FOR-006,Comercial e Distribuidora LimpaLar Ltda.,Distribuidora LimpaLar,00.666.777/0001-88,Marcelo Santos,Não informado,4,Novo Hamburgo / RS
+FOR-007,Atacadão Regional de Secos e Molhados S.A.,Atacadão Regional,00.777.888/0001-99,Patrícia Lima,(51) 98777-0707,2,Canoas / RS
+FOR-008,Distribuidora e Logística MixSul Ltda.,Distribuidora MixSul,00.888.999/0001-11,Thiago Werner,(51) 98888-0808,3,São Leopoldo / RS
