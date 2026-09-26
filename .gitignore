@@ -1,0 +1,6 @@
+
+.streamlit/secrets.toml
+__pycache__/
+dashboard_backup.py
+teste_supabase.py
+data/raw/
